@@ -127,7 +127,7 @@ Las capturas de las principales secciones de la aplicación se agregarán en est
 ## Enlaces
 
 - **Repositorio GitHub:** https://github.com/Jairo-MJ/biblionexo
-- **Aplicación desplegada:** próximamente.
+- **Aplicación desplegada:** https://biblionexo.vercel.app/
 
 ## Conclusión
 
