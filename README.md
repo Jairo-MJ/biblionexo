@@ -122,7 +122,16 @@ Actualmente no cuenta con un servidor, base de datos remota, autenticación real
 
 ## Capturas de pantalla
 
-Las capturas de las principales secciones de la aplicación se agregarán en este apartado.
+## Capturas de pantalla
+
+### Pantalla de inicio
+![Pantalla de inicio](docs/capturas/inicio.png)
+
+### Catálogo de libros
+![Catálogo de libros](docs/capturas/catalogo.png)
+
+### Detalle de un libro
+![Detalle de un libro](docs/capturas/detalle.png)
 
 ## Enlaces
 
